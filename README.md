@@ -57,7 +57,7 @@ This dashboard enables:
 
 🖼️ Dashboard Preview
 
-![Alt text]()
+![Alt text](Superstore_Sales_Dashboard.png)
 Sales Dashboard (2)
 
 ---
