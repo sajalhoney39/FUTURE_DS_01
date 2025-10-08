@@ -56,9 +56,12 @@ This dashboard enables:
 2 Deeper insights into top-performing categories, states, and subcategories
 
 🖼️ Dashboard Preview
+
+![Alt text]()
 Sales Dashboard (2)
 
 ---
 🙏 Special Thanks
 
 A special thank you to Future Interns Team for providing the opportunity to work on a real-world project and gain valuable experience in building business intelligence solutions.
+//
